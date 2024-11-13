@@ -1,0 +1,17 @@
+.big_box{
+    position: absolute;
+    border: solid 5px #501261;
+    width: 200px;
+    height: 200px;
+    padding: 150px;
+    background-color:#9839b3;
+}
+
+.lt_box{
+    position: absolute;
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    padding: 105px;
+    background-color: #da86f1;
+}
