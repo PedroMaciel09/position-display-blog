@@ -5,7 +5,7 @@
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: solid black 1px;
+    border: solid gray 3px;
 }
 
 .header_inicial{
@@ -15,7 +15,7 @@ body{
     position: static;
 }
 
-.titulo1{
+h1.titulo1{
     padding: 50px;
     position: relative;
     font-size: 2.5em;
@@ -56,6 +56,7 @@ section > h1.titulo2{
     position: relative;
     padding:30px;
     margin-top: 100px;
+    font-size: 2.5em;
 }
 
 article{
@@ -70,6 +71,7 @@ article{
 
 h1.titulo3{
     margin-top: 20px;
+    font-size: 2.5em;
 }
 
 p.lorem1{
@@ -91,5 +93,4 @@ footer.rodape{
     padding: 15px;
     width: auto;
     margin-top: 0;
-    border-radius: 7px;
 }
